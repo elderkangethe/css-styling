@@ -1,0 +1,59 @@
+*{
+    margin: 20px 20px;
+}
+.header{
+    background: wheat;
+    border-radius: 5px;
+    display: block;
+    color: black;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-bottom: green solid 3px;
+
+}
+.h1{
+    font-size: 14px;
+    align-content: end;
+}
+.content{
+    background-color: aliceblue;
+    margin-bottom: 30px;
+    display: flex;
+    width: 100%;
+}
+.intro{
+    border: green solid 3px;
+    margin-right: 30px;
+    width: 35%;
+    padding: 25px;
+    background: white;
+    border-radius: 5px;
+}
+.skills{
+    border: green solid 3px;
+    width: 35%;
+    padding: 25px;
+    background: white;
+    border-radius: 5px;
+}
+.contact{
+    background: aliceblue;
+    width: 100%;
+    display: block;
+    align-items: center;
+}
+.fb a{
+    display:flex;
+    text-decoration: none;
+    color: blue;
+    margin-top: 1px;
+}
+.fb img{
+    width: 40px;
+    margin-bottom: 2px;
+}
+.email a{
+    text-decoration: none;
+    color: blue;
+    font-weight: 300px;
+}
